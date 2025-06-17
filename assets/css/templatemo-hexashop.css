@@ -1262,12 +1262,12 @@ Explore
 #explore .left-content h2 {
   font-size: 34px;
   font-weight: 700;
-  color: #2a2a2a;
+  color: #000;
 }
 
 #explore .left-content span {
   font-size: 14px;
-  color: #aaaaaa;
+  color: #000;
   font-weight: 500;
   display: block;
   margin-top: 25px;
@@ -1286,7 +1286,7 @@ Explore
 
 #explore .left-content .quote p {
   font-style: italic;
-  color: #2a2a2a;
+  color: #000;
   font-weight: 500;
 }
 
