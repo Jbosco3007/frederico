@@ -82,7 +82,7 @@ header, nav, section, article, aside, footer, hgroup {
 html, body {
   font-family: 'Poppins', sans-serif;
   font-weight: 400;
-  background-color: linear-gradient(to right, red, white, yellow);
+  background: linear-gradient(to right, red, white, yellow);
   font-size: 16px;
   -ms-text-size-adjust: 100%;
   -webkit-font-smoothing: antialiased;
@@ -121,7 +121,7 @@ body {
 
 ::selection {
   background: #2a2a2a;
-  color: linear-gradient(to right, red, white, yellow);
+  color: #fff;
 }
 
 ::-moz-selection {
@@ -209,7 +209,7 @@ header
 
 .background-header {
   border-bottom: none !important;
-  background-color: linear-gradient(to right, red, white, yellow);
+  background : linear-gradient(to right, red, white, yellow);
   height: 80px!important;
   position: fixed!important;
   top: 0px;
