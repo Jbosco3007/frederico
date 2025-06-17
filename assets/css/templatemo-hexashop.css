@@ -209,7 +209,7 @@ header
 
 .background-header {
   border-bottom: none !important;
-  background : linear-gradient(to right, red, white, yellow);
+  background: linear-gradient(to right, red, white, yellow);
   height: 80px!important;
   position: fixed!important;
   top: 0px;
