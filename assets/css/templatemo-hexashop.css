@@ -115,7 +115,7 @@ global styles
 */
 html,
 body {
-  background: radial-gradient(circle, #00c6ff, #0072ff);
+  background: linear-gradient(to right, red, white, yellow);
   font-family: 'Poppins', sans-serif;
 }
 
