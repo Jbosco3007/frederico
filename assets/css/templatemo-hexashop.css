@@ -115,7 +115,7 @@ global styles
 */
 html,
 body {
-  background: #fff;
+   background: linear-gradient(to right, rgba(253, 21, 21, 0.671), rgba(255, 187, 0, 0.842));
   font-family: 'Poppins', sans-serif;
 }
 
