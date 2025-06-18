@@ -82,7 +82,7 @@ header, nav, section, article, aside, footer, hgroup {
 html, body {
   font-family: 'Poppins', sans-serif;
   font-weight: 400;
-  background-color: #fff;
+  background-color: rgb(255, 200, 49);
   font-size: 16px;
   -ms-text-size-adjust: 100%;
   -webkit-font-smoothing: antialiased;
@@ -105,7 +105,7 @@ ul {
 p {
   font-size: 14px;
   line-height: 25px;
-  color: #2a2a2a;
+  color: #000000;
 }
 
 /* 
@@ -175,7 +175,6 @@ body {
   opacity: 0.9;
 }
 
-
 .main-text-button a {
   font-size: 13px;
   color: #fff;
@@ -199,6 +198,7 @@ body {
   font-style: italic;
   font-weight: 400;
 }
+
 
 
 /* 
